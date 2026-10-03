@@ -25,3 +25,9 @@ Concept art lives under `assets/concepts/`. Originality research is in `ORIGINAL
 ## Verification
 
 Run `npm test` to check executable physics routes for all request/event variants, fixed replay behavior, and completion integrity. A discovered route is evidence of a playable path under this prototype's physics, not proof of player enjoyment or physical-phone usability.
+
+## Context compaction playtest
+
+The browser now has a 1500-pixel scrolling climb, crisp left/right walking, three checkpoints, and a 100-token context budget. Movement, jump power and build choices consume tokens. Exhaustion freezes play and rolls back all unsaved room state; resume at the last checkpoint with a fresh budget. Rebuild the optional memory bridge to see PATCH forget it after compaction. Costs and behavior are documented in [docs/COMPACTION_PROTOTYPE.md](docs/COMPACTION_PROTOTYPE.md).
+
+The evidence wing now requires bug delivery, a two-node contradiction and a local CAPTCHA before the exit opens. Walk right to find the terminals; use Zoom out to view the full map. See [the puzzle walkthrough](docs/EVIDENCE_PUZZLES.md).
