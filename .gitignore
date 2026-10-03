@@ -1,0 +1,8 @@
+.venv-tools/
+godot/.godot/
+builds/
+outputs/godot-api/
+outputs/godot-*.log
+tools/godot.local.json
+.DS_Store
+**/export_credentials.cfg

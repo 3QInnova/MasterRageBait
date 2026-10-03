@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {"name": "Godot", "path": "godot"},
+    {"name": "Prototype & tools", "path": "."}
+  ],
+  "settings": {
+    "godotTools.editorPath.godot4": "/Applications/Godot.app/Contents/MacOS/Godot",
+    "godotTools.lsp.headless": true,
+    "files.exclude": {"**/.godot": true, "**/.venv-tools": true},
+    "files.associations": {"*.gd": "gdscript", "*.tscn": "gdresource", "*.tres": "gdresource"}
+  },
+  "extensions": {"recommendations": ["geequlim.godot-tools"]},
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [{
+      "name": "Edge Case · Godot",
+      "type": "godot",
+      "request": "launch",
+      "project": "${workspaceFolder:Godot}",
+      "editor_path": "/Applications/Godot.app/Contents/MacOS/Godot",
+      "scene": "main",
+      "address": "127.0.0.1",
+      "port": 6007
+    }]
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {"label": "Godot: Check scripts", "type": "process", "command": "python3", "args": ["tools/godot.py", "check"], "options": {"cwd": "${workspaceFolder:Prototype & tools}"}, "problemMatcher": [], "group": {"kind": "build", "isDefault": true}},
+      {"label": "Godot: Smoke test", "type": "process", "command": "python3", "args": ["tools/godot.py", "smoke"], "options": {"cwd": "${workspaceFolder:Prototype & tools}"}, "problemMatcher": [], "group": "test"},
+      {"label": "Godot: Lint", "type": "process", "command": "python3", "args": ["tools/godot.py", "lint"], "options": {"cwd": "${workspaceFolder:Prototype & tools}"}, "problemMatcher": []},
+      {"label": "Godot: Format", "type": "process", "command": "python3", "args": ["tools/godot.py", "format"], "options": {"cwd": "${workspaceFolder:Prototype & tools}"}, "problemMatcher": []},
+      {"label": "Godot: Open editor", "type": "process", "command": "python3", "args": ["tools/godot.py", "editor"], "options": {"cwd": "${workspaceFolder:Prototype & tools}"}, "problemMatcher": []},
+      {"label": "Godot: Run", "type": "process", "command": "python3", "args": ["tools/godot.py", "run"], "options": {"cwd": "${workspaceFolder:Prototype & tools}"}, "problemMatcher": []}
+    ]
+  }
+}

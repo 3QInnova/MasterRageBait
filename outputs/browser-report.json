@@ -1,0 +1,17 @@
+{
+  "result": "pass",
+  "viewport": "390x844",
+  "checks": [
+    "request selection",
+    "no horizontal overflow",
+    "keyboard charge and release",
+    "replay preserves build",
+    "pointer cancellation does not launch",
+    "pause freezes physics",
+    "three builds completed through pointer controls",
+    "final Ship win",
+    "local best survives reload",
+    "desktop render"
+  ],
+  "errors": []
+}

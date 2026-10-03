@@ -1,0 +1,608 @@
+[
+  {
+    "request": "safe",
+    "variant": 0,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.75,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 98
+  },
+  {
+    "request": "safe",
+    "variant": 0,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.75,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 98
+  },
+  {
+    "request": "safe",
+    "variant": 0,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.75,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 98
+  },
+  {
+    "request": "safe",
+    "variant": 1,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 107
+  },
+  {
+    "request": "safe",
+    "variant": 1,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 107
+  },
+  {
+    "request": "safe",
+    "variant": 1,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 107
+  },
+  {
+    "request": "safe",
+    "variant": 2,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 121
+  },
+  {
+    "request": "safe",
+    "variant": 2,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 121
+  },
+  {
+    "request": "safe",
+    "variant": 2,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 115
+  },
+  {
+    "request": "exit",
+    "variant": 0,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      }
+    ],
+    "explored": 14
+  },
+  {
+    "request": "exit",
+    "variant": 0,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      }
+    ],
+    "explored": 14
+  },
+  {
+    "request": "exit",
+    "variant": 0,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      }
+    ],
+    "explored": 14
+  },
+  {
+    "request": "exit",
+    "variant": 1,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 105
+  },
+  {
+    "request": "exit",
+    "variant": 1,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 105
+  },
+  {
+    "request": "exit",
+    "variant": 1,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 105
+  },
+  {
+    "request": "exit",
+    "variant": 2,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 106
+  },
+  {
+    "request": "exit",
+    "variant": 2,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 106
+  },
+  {
+    "request": "exit",
+    "variant": 2,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 106
+  },
+  {
+    "request": "clean",
+    "variant": 0,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 107
+  },
+  {
+    "request": "clean",
+    "variant": 0,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 107
+  },
+  {
+    "request": "clean",
+    "variant": 0,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 107
+  },
+  {
+    "request": "clean",
+    "variant": 1,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 105
+  },
+  {
+    "request": "clean",
+    "variant": 1,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 105
+  },
+  {
+    "request": "clean",
+    "variant": 1,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 105
+  },
+  {
+    "request": "clean",
+    "variant": 2,
+    "event": 0,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 90
+  },
+  {
+    "request": "clean",
+    "variant": 2,
+    "event": 1,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 90
+  },
+  {
+    "request": "clean",
+    "variant": 2,
+    "event": 2,
+    "actions": [
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.5
+      },
+      {
+        "wait": 0,
+        "power": 1,
+        "angle": 0.25
+      },
+      {
+        "wait": 0,
+        "power": 0.55,
+        "angle": 0.25
+      }
+    ],
+    "explored": 90
+  }
+]
