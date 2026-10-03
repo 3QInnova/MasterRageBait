@@ -1,0 +1,7 @@
+{
+  "status": "pass",
+  "transport": "127.0.0.1:6005",
+  "completion": true,
+  "definition": true,
+  "hover": true
+}

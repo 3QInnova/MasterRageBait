@@ -1,5 +1,7 @@
 # Edge Case
 
+Godot tooling is ready: open [EdgeCase.code-workspace](EdgeCase.code-workspace). The native project currently contains a character preview and toolchain checks; the browser version below remains the playable game. See [docs/GODOT_WORKFLOW.md](docs/GODOT_WORKFLOW.md) for installed tools, commands, source documentation, and mobile-export requirements.
+
 A playable mobile-browser prototype about proving a confidently wrong AI assistant wrong. Choose a request, survive its physical fix, clear three builds, and ship the game before PATCH improves it again.
 
 ## Run

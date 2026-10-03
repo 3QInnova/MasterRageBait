@@ -1,0 +1,16 @@
+{
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "vscode_extension": "geequlim.godot-tools@2.7.1",
+  "gdtoolkit": "4.5.0",
+  "offline_api_xml_files": 1076,
+  "workspace_json": "valid",
+  "language_server": {
+    "status": "pass",
+    "transport": "127.0.0.1:6005",
+    "completion": true,
+    "definition": true,
+    "hover": true
+  },
+  "native_gameplay_port": "not started",
+  "mobile_export": "not configured"
+}
